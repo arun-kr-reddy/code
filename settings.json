@@ -1,0 +1,19 @@
+{
+    "window.titleBarStyle": "custom",
+    "workbench.colorTheme": "Default Light+ Experimental",
+    "workbench.iconTheme": "vs-minimal",
+    "workbench.startupEditor": "none",
+    "workbench.editor.wrapTabs": true,
+    "workbench.editor.enablePreview": false,
+    "explorer.confirmDelete": false,
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "all",
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true,
+    "files.associations": {
+        "*.cl": "c"
+    },
+    "C_Cpp.clang_format_style": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 120, UseTab: Never, BreakBeforeBraces: Allman, AccessModifierOffset: -4 }",
+    "C_Cpp.errorSquiggles": "Disabled",
+    "C_Cpp.dimInactiveRegions": false,
+}
